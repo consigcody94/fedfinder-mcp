@@ -1,0 +1,17 @@
+{
+  "identifier": "fedfinder-mcp",
+  "name": "FedFinder",
+  "version": "0.1.0",
+  "description": "Research federal contracting records with your FedFinder account, inspect source evidence and save selected opportunities with your approval.",
+  "author": "FedFinder",
+  "authorUrl": "https://www.fedfinder.net",
+  "homepage": "https://www.fedfinder.net",
+  "cloudEndpoint": "https://app.fedfinder.net/mcp",
+  "icon": "https://www.fedfinder.net/logo.png",
+  "tags": [
+    "government-contracting",
+    "procurement",
+    "federal-contracts",
+    "research"
+  ]
+}
